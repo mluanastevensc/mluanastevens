@@ -3,4 +3,4 @@
 💻 Currently working as a Reporting Analyst at [AO](https://www.linkedin.com/company/american-income-life-ao/)<br />
 📌 Scroll down to see my Pinned Repositories.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mluanastevensc&show_icons=true&theme=gruvbox)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mluanastevensc&show_icons=true&theme=tokyonight)
